@@ -2,9 +2,8 @@
 NLP (Natural Language Processing) with Python
 We'll be using a dataset from the UCI datasets! The dataset contains sentences labelled with positive or negative sentiment.
 
-=======
 Details:
-=======
+
 Score is either 1 (for positive) or 0 (for negative)
 The sentences come from three different websites/fields:
 
