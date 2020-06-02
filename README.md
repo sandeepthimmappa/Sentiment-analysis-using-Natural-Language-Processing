@@ -1,5 +1,5 @@
 # Sentiment-analysis-using-Natural-Language-Processing
-NLP (Natural Language Processing) with Python
+**NLP (Natural Language Processing) with Python.Using labelled score 1 (for positive) or 0 (for negative) will train machine learning model to learn to discriminate between 1/0 automatically**
 We'll be using a dataset from the UCI datasets! The dataset contains sentences labelled with positive or negative sentiment.
 
 Details:
